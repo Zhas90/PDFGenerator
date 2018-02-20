@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <invoiceNumber>123456</invoiceNumber>
+    <accountFrom>KZ000000000000</accountFrom>
+    <accountTo>KZ000000000000</accountTo>
+    <amount>65000,00 KZT</amount>
+    <comission>100,00 KZT</comission>
+    <trasnferType>ПЕРЕВОД МЕЖДУ СВОИМИ СЧЕТАМИ</trasnferType>
+    <knp>119</knp>
+    <transferDate>01.08.2014 13:33:19</transferDate>
+</root>
